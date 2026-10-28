@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stash is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://stashapp.cc/
+Stash is an open-source self‑hosted media organizer designed for personal adult video and image collections. It provides a private, PornHub‑like experience, allowing users to browse, tag, rate, and stream their own content securely. Features include scene management, markers, galleries, metadata scraping, plugin support, and cross‑platform installations (Windows, macOS, Linux, Docker, Synology, TrueNAS, Unraid). The project is community‑driven, with documentation, source code, and donation options available.
+
+**Areas:** Company · Media · Open-source · Adult · Organizer
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stashapp.cc/)
+- [Documentation](https://docs.stashapp.cc/)
+- [Getting started](https://docs.stashapp.cc/faq/setup/)
+- [Pricing](https://opencollective.com/stashapp)
+- [Support](https://discourse.stashapp.cc/)
+- [Changelog](https://github.com/stashapp/stash/releases/latest)
+- [Blog](https://stashapp.cc/blog/)
+- [GitHub](https://github.com/stashapp)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/stashapp/](https://apis.io/providers/stashapp/).
